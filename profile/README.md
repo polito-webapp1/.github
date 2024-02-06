@@ -19,6 +19,8 @@ Detailed information about the course is available in the dedicated web pages.
 
 :blue_book: [Laboratories](https://github.com/polito-webapp1/lab-2024)
 
+<hr/>
+
 ### Previous versions of the course
 
 <small>
