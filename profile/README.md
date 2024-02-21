@@ -9,7 +9,7 @@ Detailed information about the course is available in the dedicated web pages.
 | Course | Teacher | Course website | YouTube | Exercises |
 |----------|-------|---------|---------|--------|
 | :gb: Web Applications I| F. Corno | <https://bit.ly/polito-wa1> | [:arrow_forward:]() | [wa1-weeks](https://github.com/polito-webapp1/wa1-weeks-2024) |
-| :it: Applicazioni Web I  | L. De Russis |  | [:arrow_forward:]() | [aw1-weeks]() |
+| :it: Applicazioni Web I  | L. De Russis | <https://bit.ly/polito-aw1> | [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwTz6XD62wCYGRaVXMztRpwd) | [aw1-weeks](https://github.com/polito-webapp1/aw1-weeks-2024) |
 
 ## Available repositories (common to the 3 courses)
 
