@@ -24,13 +24,16 @@ Detailed information about the course is available in the dedicated web pages.
 ### Previous versions of the course
 
 <small>
+  
 - 2023/2024:
+  
   - [Materials](https://github.com/polito-webapp1/material-2024)
   - [Laboratories](https://github.com/polito-webapp1/lab-2024)
   - [AW1 Lectures (YouTube)](https://www.youtube.com/playlist?list=PLs7DWGc_wmwTz6XD62wCYGRaVXMztRpwd)
   - [WA1 Lectures (YouTube)](https://www.youtube.com/playlist?list=PLqRTLlwsxDL9lcLij9lXLxTGQHhKIgSFt)
   - [AW1 Weekly Exercises](https://github.com/polito-webapp1/aw1-weeks-2024)
   - [WA1 Weekly Exercises](https://github.com/polito-webapp1/wa1-weeks-2024)
+ 
 - 2022/2023: [https://github.com/polito-WA1-AW1-2023](https://github.com/polito-WA1-AW1-2023)
 - 2021/2022: [https://github.com/polito-WA1-AW1-2022](https://github.com/polito-WA1-AW1-2022)
 - 2020/2021: [https://github.com/polito-WA1-AW1-2022](https://github.com/polito-WA1-AW1-2021)
